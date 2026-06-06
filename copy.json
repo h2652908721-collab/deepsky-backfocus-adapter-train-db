@@ -1,0 +1,70 @@
+{
+  "brand": "OptiMatch",
+  "tagline": "Precise optical configuration, deep-sky equipment assembly made simple",
+  "hero_headline": "Back-focus off by millimeters? Thousands in gear, assembly failures?",
+  "hero_sub": "Exact back-focus specs, complete adapter chains, mount load calculations—verify compatibility before assembly, avoid costly returns.",
+  "pains": [
+    "Back-focus misalignment discovered only after assembly—expensive gear becomes dead weight",
+    "Adapter rings scattered across dozens of types and specs—piece together a single optical train from fragmented data",
+    "Equatorial mount load calculations are complex—oversized configs fail mechanically, repairs cost thousands"
+  ],
+  "features": [
+    {
+      "title": "Back-Focus Database",
+      "desc": "Thousands of verified measurements, eliminate assembly surprises"
+    },
+    {
+      "title": "Adapter Chain Library",
+      "desc": "Complete telescope-to-camera chains: adapters, extension tubes, all specs in one place"
+    },
+    {
+      "title": "Mount Load Calculator",
+      "desc": "Instant verification: input your gear, know if your mount can handle it"
+    },
+    {
+      "title": "Incompatibility Archive",
+      "desc": "Known failed combinations—avoid trial-and-error, catch problems before purchase"
+    }
+  ],
+  "how": [
+    {
+      "step": "1. Input your gear",
+      "desc": "Enter your telescope, camera, mount, focal reducer, and key components"
+    },
+    {
+      "step": "2. Check compatibility instantly",
+      "desc": "Back-focus specs, adapter solutions, and load calculations at a glance"
+    },
+    {
+      "step": "3. Verify assembly is safe",
+      "desc": "Catch mismatches early, confirm everything works before you buy"
+    }
+  ],
+  "proof": "Beta live now—early users guide which brands we prioritize in our database next.",
+  "cta": "Join the Beta",
+  "cta_sub": "Free during beta, continuous data updates, priority access to full adapter library",
+  "faq": [
+    {
+      "q": "How accurate are the back-focus measurements?",
+      "a": "Cross-verified against manufacturer datasheets, accurate to 0.1mm, continuously refined by user feedback."
+    },
+    {
+      "q": "Will my equipment be in the database?",
+      "a": "We launch with major deep-sky brands, expanding monthly. Submit your gear to be added."
+    },
+    {
+      "q": "Why is this a subscription?",
+      "a": "Data curation is expensive. Subscriptions fund ongoing accuracy checks, new brand additions, and continuous maintenance."
+    }
+  ],
+  "seo_pages": [
+    "Back-focus calculator for deep-sky astrophotography",
+    "ZWO camera + Takahashi telescope compatibility checker",
+    "Equatorial mount load calculator for astronomy setups",
+    "Astronomy adapter ring database and optical configuration solver",
+    "Deep-sky astrophotography equipment configuration guide",
+    "Focal reducer back-focus specifications and optical matching"
+  ],
+  "disclaimer": "⚠️ OptiMatch is an astrophotography equipment configuration reference tool. All parameters are derived from published manufacturer specifications and user-reported data, provided for informational purposes only. For actual optical configuration, always consult official manufacturer manuals and professional equipment advisors. Assembly errors remain the user's responsibility.",
+  "lang": "en"
+}
